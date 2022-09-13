@@ -1,0 +1,50 @@
+
+.userdiv{
+    width: 100%;
+    height: 150px;
+    padding-left: 15px;
+    border: 1px solid #D0D7DE;
+    border-right: none;
+    border-left: none;
+}
+.proimage{
+    width: 125px;
+    height: 125px;
+    padding: 0;
+    margin-top: 10px;
+    border-radius: 100%;
+
+    
+}
+.userinfo{
+    width: 88%;
+    height: 100%;
+    padding-top: 10px;
+    
+}
+img{
+    width: 125px;
+    height: 125px;
+    margin: 0;
+    border-radius: 100%;
+}
+.navone{
+    position: relative;
+}
+.formm{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 70px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: white;
+}
+.footer>a{
+    text-decoration: none;
+}
